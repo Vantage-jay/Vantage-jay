@@ -20,7 +20,7 @@ through cleaning, analysis, and visualization.
 - Strong analytical thinking through practice
 
 ## Current Focus
-Turning raw data into clear, actionable insights.## Hi there 👋
+Turning raw data into clear, actionable insights.
 
 <!--
 **Vantage-jay/Vantage-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
